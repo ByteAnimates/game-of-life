@@ -35,7 +35,7 @@ def step(on):
 
 | | |
 | --- | --- |
-| `main.py` | run this — the demo, with real inputs and the claims asserted |
+| `main.py` | run this — the demo, with real inputs and real output |
 | `solution.py` | the working implementation, with the helpers the reel named |
 | `test_solution.py` | the properties, checked — they survive a rewrite |
 
